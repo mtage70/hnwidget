@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Hacker News</string>
+	<key>AllowFullAccess</key>
+	<true/>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.widget.HackerNews</string>
+	<key>CFBundleName</key>
+	<string>HackerNewsWidget</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>MainHTML</key>
+	<string>hackerNewsWidget.html</string>
+</dict>
+</plist>
